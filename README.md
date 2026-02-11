@@ -18,7 +18,6 @@ This is a modern, clean Admin Dashboard interface built with **HTML5** and **CSS
 
 ### Mobile View
 ![Mobile Preview](image/dash-mob.jfif)
-![Mobile Preview](image/dash-mobi.jfif)
 
 ## 🔗 Live Demo
 [https://dibamel95-ux.github.io/mia-admin-dashboard/]
